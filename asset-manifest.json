@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/deliattoPetshop/static/css/main.2a64d34a.css",
+    "main.js": "/deliattoPetshop/static/js/main.67d16808.js",
+    "static/media/dog.png": "/deliattoPetshop/static/media/dog.0edf37f9374242e0680f.png",
+    "static/media/garotaDog.jpg": "/deliattoPetshop/static/media/garotaDog.fdf9d0121e946d60aa82.jpg",
+    "static/media/GatoDois.png": "/deliattoPetshop/static/media/GatoDois.c75f974877cef9b12fa1.png",
+    "static/media/GatoUm.png": "/deliattoPetshop/static/media/GatoUm.20611637cdb22e6652fe.png",
+    "static/media/DelicattoHorizontal.svg": "/deliattoPetshop/static/media/DelicattoHorizontal.a33c718d16d701bf65a2d2223b60c59d.svg",
+    "index.html": "/deliattoPetshop/index.html",
+    "main.2a64d34a.css.map": "/deliattoPetshop/static/css/main.2a64d34a.css.map",
+    "main.67d16808.js.map": "/deliattoPetshop/static/js/main.67d16808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a64d34a.css",
+    "static/js/main.67d16808.js"
+  ]
+}
